@@ -1,0 +1,4 @@
+interface:
+  display_name: "Repo Atlas"
+  short_description: "Build evidence-grounded repository wikis and change maps"
+  default_prompt: "Use $repo-atlas to analyze this repository and generate an evidence-grounded developer Wiki."

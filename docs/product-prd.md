@@ -1,6 +1,6 @@
 # Repo Atlas 产品需求文档（PRD）
 
-> 状态：调研与验证版 / 待用户访谈验证  
+> 状态：历史方案；项目已转向根目录 `SKILL.md` 定义的轻量 Repo Atlas Skill
 > 版本：v0.2  
 > 日期：2026-08-14  
 > 工作名称：Repo Atlas  
